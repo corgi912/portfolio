@@ -3,7 +3,11 @@
 body {
   font-family: 'Inconsolata', monospace; 
   background-image: url("https://github.com/corgi912/portfolio/blob/master/hihibye.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
+
 
 h1 {
   font-style: italic;
