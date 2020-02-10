@@ -7,4 +7,10 @@ body {
 h1 {
   font-style: italic;
   font-size: 50px;
+  color: #33A2FF;
 }
+
+p {
+  color: #33FFA2;
+}
+  
