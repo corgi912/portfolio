@@ -8,6 +8,10 @@ body {
   background-size: cover;
 }
 
+.bigheading {
+  font-size: 75px;
+  color: #091244
+}
 
 h1 {
   font-style: italic;
