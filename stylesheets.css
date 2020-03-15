@@ -46,7 +46,7 @@ h1 {
 @keyframes h1anim {
   0% {color: white;}
   50% {color: #063582;}
-  100% {color: #DCBFDB;}
+  100% {color: white;}
 }
 
 p {
