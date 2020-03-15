@@ -36,8 +36,17 @@ body {
 h1 {
   font-style: italic;
   font-size: 50px;
-  color: #0F0600;
+  color: white;
   border: 5px dotted white;
+  animation-name: h1anim;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes h1anim {
+  0% {color: white;}
+  50% {color: #063582;}
+  100% {color: #DCBFDB;}
 }
 
 p {
